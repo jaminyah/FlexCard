@@ -11,6 +11,10 @@ body {
     background: white;
     margin-top: 0.5em;
     margin-bottom: 2em;
+    padding-top: 0.5em;
+    border: 1 px solid #131010;
+    border-radius: .25rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .card-content {
